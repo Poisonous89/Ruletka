@@ -1,4 +1,4 @@
-# Systémová analýza projektu: ESP Fyzická elektronická ruleta
+# Systémová analýza projektu: ESP elektronická ruleta
 
 ## Dôvod a okolnosti zavedenia riešenia
 
